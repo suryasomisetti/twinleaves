@@ -16,8 +16,8 @@
          http://localhost:8080/api/batches/latest_negative_or_zero_quantity  
 -------------------------------------------------------------------------------------------------  
 
-1.Also created some other API for other Controllers, Please go through to http://localhost:8080/swagger-ui/index.html for API Documentation  
-2.Please use http://localhost:8080/h2-console for H2 Database 
-    with URL: jdbc:h2:file:./data/twinleavesdb
-    User Name: twinleaves
-    password: twinleaves  
+1. Also created some other API for other Controllers, Please go through to http://localhost:8080/swagger-ui/index.html for API Documentation  
+2. Please use http://localhost:8080/h2-console for H2 Database  
+   with URL: jdbc:h2:file:./data/twinleavesdb  
+   User Name: twinleaves  
+   password: twinleaves    
